@@ -1,0 +1,3 @@
+Ovipar: Binatang yang bertelur
+Vivipar: Binatang yang melahirkan
+Ovovivipar: Binatang yang bertelur dan melahirkan
